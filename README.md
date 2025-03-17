@@ -1,1 +1,1 @@
-# Projeto-Brinquedo-M-gico
+# Projeto-Brinquedo-Mágico
