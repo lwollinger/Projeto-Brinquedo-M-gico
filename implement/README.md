@@ -1,6 +1,6 @@
 # Implement
 
-Aqui será mostrada o circuito Brinquedo Mágico em funcionamento e seu resultado final.
+Aqui será mostrada o circuito Brinquedo Mágico em funcionamento.
 
 ## Funcionamento
 
@@ -17,15 +17,6 @@ Pode-se observar que os 50% de duty e os 38kHz foram conquistados com sucesso.
     * ![](img/estadoacionadorecepetor.png)
 
 
-## Montagem final
+## Conclusão
 
-![](img/transmissorereceptor.png)
-![](img/transmissorereceptor2.png)
-
-
-
-## Referências
-
-Foi necessário um estudo sobre multivibradores e sobre o CI555 para a resolução deste projeto.
-
-**Materiais de apoio:** O TEMPORIZADOR 555 - Charles Borges de Lima / Material Multivibradores - Prof. Clóvis Antônio Petry.
+Portanto, como observado no funcionamento descrito acima, tanto o transmissor quanto o receptor operam conforme o esperado. Após a validação dos testes, será realizada a montagem final e a produção de cinco unidades do **Brinquedo Mágico**.
